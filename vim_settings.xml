@@ -1,0 +1,300 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks>
+      <mark key="M" line="80" column="35" filename="$USER_HOME$/Repository/dev/plugins/com.gridnine.xtrip.client.fx.vip/source/com/gridnine/xtrip/client/fx/vip/entity/handlers/bookingfile/controllerinterceptors/VipBookingFileProductFopAdditionalControllerInterceptor.java" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" timestamp="1550153167240">
+        <mark key="'" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repository/production/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/ibus/hotels/booking/UpdateAndSaveBookingFileProcessor.java" timestamp="1529581469087">
+        <mark key="'" line="139" column="12" />
+        <mark key="[" line="110" column="12" />
+        <mark key="]" line="110" column="12" />
+        <mark key="." line="110" column="12" />
+        <mark key="^" line="65" column="32" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model/source/com/gridnine/xtrip/common/model/helpers/BookingHelper.java" timestamp="1550658819529">
+        <mark key="'" line="563" column="0" />
+        <mark key="[" line="1773" column="52" />
+        <mark key="]" line="1773" column="52" />
+        <mark key="^" line="1773" column="28" />
+        <mark key="." line="1773" column="52" />
+      </file>
+      <file name="/a.dummy" timestamp="1550661633285">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/GeoLocationInfo.java" timestamp="1550213393529">
+        <mark key="'" line="39" column="25" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/ibus/notifications/builders/BaseBookingFileNotificationBuilder.java" timestamp="1551424618874">
+        <mark key="[" line="206" column="22" />
+        <mark key="]" line="206" column="51" />
+        <mark key="^" line="206" column="51" />
+        <mark key="." line="206" column="51" />
+      </file>
+      <file name="$USER_HOME$/Repository/production/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/ibus/notifications/builders/BuilderHelper.java" timestamp="1529582147938">
+        <mark key="'" line="457" column="33" />
+        <mark key="[" line="457" column="33" />
+        <mark key="]" line="457" column="49" />
+        <mark key="." line="457" column="34" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model/lib/gen-model-basic.jar!/com/gridnine/xtrip/common/model/system/Document.java" timestamp="1550658782844">
+        <mark key="[" line="12" column="69" />
+        <mark key="]" line="12" column="84" />
+      </file>
+      <file name="$USER_HOME$/Repository/dev/plugins/com.gridnine.xtrip.client.fx.vip/source/com/gridnine/xtrip/client/fx/vip/entity/handlers/bookingfile/controllerinterceptors/VipBookingFileProductFopAdditionalControllerInterceptor.java" timestamp="1551164236015" />
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/common/autocomplete/GetGeoLocationsProcessor.java" timestamp="1550153459310">
+        <mark key="'" line="164" column="8" />
+      </file>
+      <file name="$USER_HOME$/Repository/production/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/cabinet/ibus-vip-b2b-cabinet.xml" timestamp="1550229663610">
+        <mark key="'" line="203" column="24" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.model/source/com/gridnine/xtrip/server/model/interceptors/FopSettingsInterceptor.java" timestamp="1550656102523">
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="8" />
+        <mark key="." line="283" column="8" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.reports/source-test/com/gridnine/xtrip/server/reports/templates/clientTicketsRegistryVipReport.groovy" timestamp="1550660376201">
+        <mark key="'" line="80" column="34" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model.standard/source/com/gridnine/xtrip/common/model/standard/helpers/NamedValueHelper.java" timestamp="1550660799310">
+        <mark key="'" line="53" column="15" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/cabinet/operation/refund/railway/RailRefundValidator.java" timestamp="1550229993653">
+        <mark key="'" line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common/source/com/gridnine/xtrip/common/util/MiscUtil.java" timestamp="1550209591408">
+        <mark key="'" line="1141" column="54" />
+        <mark key="[" line="1154" column="32" />
+        <mark key="]" line="1154" column="32" />
+        <mark key="^" line="1152" column="8" />
+        <mark key="." line="1154" column="32" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model/source/com/gridnine/xtrip/common/model/templates/jr/PaymentJRDocumentRender.java" timestamp="1550665721029">
+        <mark key="'" line="406" column="26" />
+        <mark key="[" line="858" column="2" />
+        <mark key="]" line="858" column="2" />
+        <mark key="." line="858" column="2" />
+        <mark key="^" line="393" column="10" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2c/rest/common/FindBookingDocumentsProcessor.java" timestamp="1550657681961">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="18" column="74" />
+        <mark key="^" line="18" column="73" />
+        <mark key="." line="18" column="74" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/ConverterHelper2.java" timestamp="1550213513384">
+        <mark key="'" line="1686" column="8" />
+        <mark key="[" line="1668" column="0" />
+        <mark key="]" line="1668" column="0" />
+        <mark key="." line="1668" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/common/CommonRest2Helper.java" timestamp="1550227900976">
+        <mark key="'" line="336" column="4" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/rail/GeLocationsProcessor.java" timestamp="1550155100945">
+        <mark key="'" line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/ibus/cwt/CwtHelper.java" timestamp="1550665737304">
+        <mark key="[" line="202" column="1" />
+        <mark key="]" line="202" column="2" />
+        <mark key="^" line="166" column="7" />
+        <mark key="." line="202" column="1" />
+      </file>
+      <file name="/fragment.java" timestamp="1550654269782">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/rail/GeoLocationAutocompleteResponseConverter.java" timestamp="1550155250809">
+        <mark key="'" line="55" column="36" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="76" column="35" filename="$USER_HOME$/Repository/dev/plugins/com.gridnine.xtrip.client.fx.vip/source/com/gridnine/xtrip/client/fx/vip/entity/handlers/bookingfile/controllerinterceptors/VipBookingFileProductFopAdditionalControllerInterceptor.java" />
+      <jump line="139" column="12" filename="$USER_HOME$/Repository/production/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/ibus/hotels/booking/UpdateAndSaveBookingFileProcessor.java" />
+      <jump line="457" column="33" filename="$USER_HOME$/Repository/production/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/ibus/notifications/builders/BuilderHelper.java" />
+      <jump line="333" column="17" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="187" column="8" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="174" column="0" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="162" column="8" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="139" column="60" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="309" column="17" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="149" column="0" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="134" column="8" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="212" column="8" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="237" column="8" filename="$USER_HOME$/Repository/build-scripts/ATH/bof/trunk/plugins/com.gridnine.xtrip.server.ath/source/com/gridnine/xtrip/server/ath/rest/op/hotel/RestOrderDocSender.java" />
+      <jump line="48" column="30" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/hotels/autocomplete/location/HandlerProcessor.java" />
+      <jump line="164" column="8" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/common/autocomplete/GetGeoLocationsProcessor.java" />
+      <jump line="22" column="34" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/GeoLocationInfo.java" />
+      <jump line="39" column="25" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/GeoLocationInfo.java" />
+      <jump line="1130" column="24" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common/source/com/gridnine/xtrip/common/util/MiscUtil.java" />
+      <jump line="1147" column="12" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common/source/com/gridnine/xtrip/common/util/MiscUtil.java" />
+      <jump line="1154" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common/source/com/gridnine/xtrip/common/util/MiscUtil.java" />
+      <jump line="1146" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common/source/com/gridnine/xtrip/common/util/MiscUtil.java" />
+      <jump line="1141" column="54" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common/source/com/gridnine/xtrip/common/util/MiscUtil.java" />
+      <jump line="64" column="13" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/rail/GeLocationsProcessor.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/rail/GeLocationsProcessor.java" />
+      <jump line="4" column="8" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/rail/GeLocationsProcessor.java" />
+      <jump line="50" column="45" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/rail/GeoLocationAutocompleteResponseConverter.java" />
+      <jump line="35" column="35" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/rail/GeoLocationAutocompleteResponseConverter.java" />
+      <jump line="59" column="42" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/rail/GeoLocationAutocompleteResponseConverter.java" />
+      <jump line="55" column="36" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/rail/GeoLocationAutocompleteResponseConverter.java" />
+      <jump line="170" column="8" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/ConverterHelper2.java" />
+      <jump line="180" column="8" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/ConverterHelper2.java" />
+      <jump line="241" column="23" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/ConverterHelper2.java" />
+      <jump line="1681" column="8" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/ConverterHelper2.java" />
+      <jump line="1688" column="8" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/ConverterHelper2.java" />
+      <jump line="336" column="4" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/common/CommonRest2Helper.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/cabinet/operation/refund/railway/RailRefundValidator.java" />
+      <jump line="203" column="24" filename="$USER_HOME$/Repository/production/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2b/rest/cabinet/ibus-vip-b2b-cabinet.xml" />
+      <jump line="843" column="12" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model/source/com/gridnine/xtrip/common/model/templates/jr/PaymentJRDocumentRender.java" />
+      <jump line="841" column="17" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model/source/com/gridnine/xtrip/common/model/templates/jr/PaymentJRDocumentRender.java" />
+      <jump line="561" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model/source/com/gridnine/xtrip/common/model/helpers/BookingHelper.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.vip/source/com/gridnine/xtrip/server/vip/b2c/rest/common/FindBookingDocumentsProcessor.java" />
+      <jump line="80" column="34" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.server.reports/source-test/com/gridnine/xtrip/server/reports/templates/clientTicketsRegistryVipReport.groovy" />
+      <jump line="53" column="15" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model.standard/source/com/gridnine/xtrip/common/model/standard/helpers/NamedValueHelper.java" />
+      <jump line="275" column="32" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model/source/com/gridnine/xtrip/common/model/templates/jr/PaymentJRDocumentRender.java" />
+      <jump line="850" column="19" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model/source/com/gridnine/xtrip/common/model/templates/jr/PaymentJRDocumentRender.java" />
+      <jump line="408" column="26" filename="$USER_HOME$/Repository/trunk/plugins/com.gridnine.xtrip.common.model/source/com/gridnine/xtrip/common/model/templates/jr/PaymentJRDocumentRender.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxnZXRQYXJhbWV0ZXJzXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ZmluYWwgTWFwPFN0cmluZywgT2JqZWN0PiBwYXJhbWV0ZXJzKQ==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGNoZWNrUHJpbnRDaGVxdWVMaW5rUHJlZmVyZW5jZShFbnRpdHlDb250YWluZXI8Qm9va2luZ0ZpbGU+IGJmQ3RyKSB7CiAgICAgICAgaXNGZWVGb3JSZWZ1bmQoKQogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBwcml2YXRlIFN0cmluZyBmaW5kQ2hlcXVlTGluayhmaW5hbCBFbnRpdHlDb250YWluZXI8Qm9va2luZ0ZpbGU+IGJmQ3RyKSB7CiAgICAgICAgZmluYWwgTGlzdDxCYXNpY0RvY3VtZW50SW5kZXg+IGRvY3VtZW50cwogICAgICAgICAgICAgICAgPSBmaW5kQm9va2luZ0ZpbGVEb2N1bWVudHMoYmZDdHIudG9SZWZlcmVuY2UoKSwgRG9jdW1lbnRUeXBlLlJFQ0VJUFQpOwogICAgICAgIGZpbmFsIE9wdGlvbmFsPEJhc2ljRG9jdW1lbnRJbmRleD4gb3B0aW9uYWxJbmRleCA9CiAgICAgICAgICAgICAgICBkb2N1bWVudHMuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAgICAgLm1heChDb21wYXJhdG9yLmNvbXBhcmluZyhCYXNpY0RvY3VtZW50SW5kZXg6OmdldENyZWF0ZWQsIERhdGU6OmNvbXBhcmVUbykpOwogICAgICAgIGlmICghb3B0aW9uYWxJbmRleC5pc1ByZXNlbnQoKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgZmluYWwgRW50aXR5Q29udGFpbmVyPEJhc2VGaWxlRG9jdW1lbnQ+IGN0ciA9IEVudGl0eVN0b3JhZ2UuZ2V0KCkucmVzb2x2ZShvcHRpb25hbEluZGV4LmdldCgpLmdldFNvdXJjZSgpKTsKICAgICAgICBpZiAoY3RyID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgICAgIGZpbmFsIERvY3VtZW50IGVudGl0eSA9IChEb2N1bWVudCkgY3RyLmdldEVudGl0eSgpOwogICAgICAgIGZpbmFsIE5hbWVkVmFsdWUgbGtfdXJsID0gZW50aXR5LmdldFByb3BlcnRpZXMoKS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcihwcm9wIC0+IHByb3AuZ2V0TmFtZSgpLmNvbnRhaW5zKCJMS19VUkwiKSkKICAgICAgICAgICAgICAgIC5maW5kQW55KCkub3JFbHNlKG51bGwpOwogICAgICAgIHJldHVybiBsa191cmwgPT0gbnVsbCA/IG51bGwgOiBsa191cmwuZ2V0VmFsdWUoKTsKICAgIH0=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAocGFyYW1ldGVkZHJzID09IG51bGwpIHsK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZmluYWwgTWFwPFN0cmluZywgT2JqZWN0PiB4dHJpcFBhcmFtcyA9IGdldFBhcmFtZXRlcnMoYmZDdHIsIHBheW1lbnQsIGRvYywgZmRwLAogICAgICAgICAgICAgICAgZmRzLCByZXBvcnQsIGxvY2FsZSwgbWVzc2FnZXMpOwogICAgICAgIGlmICh4dHJpcFBhcmFtcyAhPSBudWxsKSBwYXJhbWV0ZXJzLnB1dEFsbCh4dHJpcFBhcmFtcyk7</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0PiBwYXJhbWV0ZXJzIA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">fQogICAgICAgIAogICAgICAgIA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTmFtZWRWYWx1ZUhlbHBlci5nZXRWYWx1ZUZvck5hbWUoQXRvbEhlbHBlci5MS19VUkwsIGVudGl0eS5nZXRQcm9wZXJ0aWVzKCkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbmRleC5nZXRTb3VyY2UoKS4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBCYXNlRmlsZURvY3VtZW50IGVudGl0eSA9IGRvY0N0ci5nZXRFbnRpdHkoKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>set number</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxnZXRQYXJhbWV0ZXJzXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxnZXRQYXJhbWV0ZXJzXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>getMom</entry>
+        <entry encoding="base64">XDxpbmNsdWRlZE1lYWxwbGFuc1w+</entry>
+        <entry encoding="base64">XDxzYXZlWG1sRG9jXD4=</entry>
+        <entry>addDoc</entry>
+        <entry encoding="base64">XDxhZGREb2NFbGVtZW50c1w+</entry>
+        <entry>geloc</entry>
+        <entry>GeLoc</entry>
+        <entry encoding="base64">XDxzdGF0aW9uc1w+</entry>
+        <entry encoding="base64">XDxmaWxsTWFya3NcPg==</entry>
+        <entry>FU</entry>
+        <entry>Fu</entry>
+        <entry>get-order-with-form-settings</entry>
+        <entry>P</entry>
+        <entry encoding="base64">XDxhZGRQYXllclZhbHVlc1w+</entry>
+        <entry encoding="base64">XDxnZXRSYWlsd2F5VHJhdmVsRG9jdW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxnZXROYW1lZFZhbHVlRm9yTmFtZVw+</entry>
+        <entry encoding="base64">XDxLRVlfTEtfVVJMXD4=</entry>
+        <entry encoding="base64">XDxmaW5kQ2hlcXVlTGlua1w+</entry>
+        <entry>=</entry>
+        <entry encoding="base64">XDxnZXRQYXJhbWV0ZXJzXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>actionList</entry>
+        <entry>actions</entry>
+        <entry>number</entry>
+        <entry>set number</entry>
+        <entry>nonu</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

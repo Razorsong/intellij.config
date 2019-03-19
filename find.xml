@@ -1,0 +1,43 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="VIP-44906 com.gridnine.xtrip.server.vip.hotel.ProductNotFoundException" />
+    <option name="defaultScopeName" value="VIP-44906 com.gridnine.xtrip.server.vip.hotel.ProductNotFoundException" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="VIP-44906 com.gridnine.xtrip.server.vip.hotel.ProductNotFoundException" />
+    <mask>*.properties</mask>
+    <mask>*tra*.xml</mask>
+    <mask>*.groovy</mask>
+    <mask>*de.properties</mask>
+    <mask>model*</mask>
+    <mask>*handler.java</mask>
+    <mask>*.java</mask>
+    <mask>*rule*.java</mask>
+    <mask>*model*</mask>
+    <mask>*avia*.xml</mask>
+    <mask>*midoffice*.xml</mask>
+    <mask>*avia*</mask>
+    <mask>*properties</mask>
+    <mask>*ath*</mask>
+    <mask>*rule*</mask>
+    <mask>*rail.xml</mask>
+    <mask>plugin.xml</mask>
+    <mask>*model*.xml</mask>
+    <mask>ui*.xml</mask>
+    <mask>*.prop*</mask>
+    <mask>*prop*</mask>
+    <mask>*xml</mask>
+    <mask>*groovy</mask>
+    <mask>ibus*xml</mask>
+    <mask>*property</mask>
+    <mask>*Builder.java</mask>
+    <mask>ibus-vip-notifications*</mask>
+    <mask>*_DE*</mask>
+    <mask>*.xml</mask>
+    <mask>*java</mask>
+  </component>
+</application>

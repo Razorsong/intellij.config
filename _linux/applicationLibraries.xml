@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="org.ccil.cowan.tagsoup:tagsoup:1.2.1" type="repository">
+      <properties maven-id="org.ccil.cowan.tagsoup:tagsoup:1.2.1" />
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Repository/testcontrol/lib/tagsoup-1.2.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
