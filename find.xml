@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="VIP-44945 ufs / Возраст одного из пользователей не соответствует документу. request.Customers[0]...." />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*tra*.xml</mask>
     <mask>*.groovy</mask>
@@ -33,7 +34,7 @@
     <mask>*Builder.java</mask>
     <mask>ibus-vip-notifications*</mask>
     <mask>*_DE*</mask>
-    <mask>*.xml</mask>
     <mask>*java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
