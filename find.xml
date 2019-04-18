@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*tra*.xml</mask>
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.groovy</mask>
     <mask>*de.properties</mask>
     <mask>model*</mask>
@@ -37,5 +37,6 @@
     <mask>*java</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
