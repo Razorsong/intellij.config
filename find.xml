@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="model*.xml" />
     <mask>*handler.java</mask>
     <mask>*rule*.java</mask>
     <mask>*model*</mask>
@@ -35,9 +36,9 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
-    <mask>model*.xml</mask>
     <mask>*.java</mask>
     <mask>ui*</mask>
     <mask>ibus*.xml</mask>
+    <mask>model*.xml</mask>
   </component>
 </application>
