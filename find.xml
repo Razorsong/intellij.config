@@ -11,7 +11,6 @@
     <mask>*avia*.xml</mask>
     <mask>*midoffice*.xml</mask>
     <mask>*avia*</mask>
-    <mask>*properties</mask>
     <mask>*ath*</mask>
     <mask>*rule*</mask>
     <mask>*rail.xml</mask>
@@ -37,5 +36,6 @@
     <mask>ibus-vip-no*.xml</mask>
     <mask>model*.xml</mask>
     <mask>*</mask>
+    <mask>*properties</mask>
   </component>
 </application>
