@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*avia*.xml</mask>
+    <option name="FILE_MASK" value="ibus-gds-sabre*" />
     <mask>*midoffice*.xml</mask>
     <mask>*avia*</mask>
     <mask>*ath*</mask>
@@ -37,5 +37,6 @@
     <mask>*</mask>
     <mask>*properties</mask>
     <mask>ibus*</mask>
+    <mask>ibus-gds-sabre*</mask>
   </component>
 </application>
