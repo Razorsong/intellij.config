@@ -7,8 +7,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="ibus-*hotel*" />
-    <mask>*avia*</mask>
     <mask>*ath*</mask>
     <mask>*rule*</mask>
     <mask>*rail.xml</mask>
@@ -38,5 +36,6 @@
     <mask>ibus*</mask>
     <mask>ibus-gds-sabre*</mask>
     <mask>ibus-*hotel*</mask>
+    <mask>model*</mask>
   </component>
 </application>
