@@ -17,7 +17,6 @@
     <mask>ui*.xml</mask>
     <mask>*.prop*</mask>
     <mask>*prop*</mask>
-    <mask>*xml</mask>
     <mask>*groovy</mask>
     <mask>ibus*xml</mask>
     <mask>*property</mask>
@@ -39,5 +38,6 @@
     <mask>ibus-gds-sabre*</mask>
     <mask>ibus-*hotel*</mask>
     <mask>model*</mask>
+    <mask>*xml</mask>
   </component>
 </application>
