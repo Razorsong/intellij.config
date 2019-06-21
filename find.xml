@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*ath*</mask>
     <mask>*rule*</mask>
     <mask>*rail.xml</mask>
@@ -21,7 +22,6 @@
     <mask>*Builder.java</mask>
     <mask>ibus-vip-notifications*</mask>
     <mask>*_DE*</mask>
-    <mask>*java</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
@@ -37,5 +37,6 @@
     <mask>ibus-*hotel*</mask>
     <mask>model*</mask>
     <mask>*xml</mask>
+    <mask>*java</mask>
   </component>
 </application>
