@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*ath*</mask>
+    <option name="FILE_MASK" value="model*xml" />
     <mask>*rule*</mask>
     <mask>*rail.xml</mask>
     <mask>plugin.xml</mask>
@@ -37,5 +37,6 @@
     <mask>model*</mask>
     <mask>*xml</mask>
     <mask>*java</mask>
+    <mask>model*xml</mask>
   </component>
 </application>
