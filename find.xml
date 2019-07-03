@@ -4,9 +4,7 @@
     <option name="defaultScopeName" value="VIP-46332 Prod/Bus ACR в МОМ не отображается валюта в маске." />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="VIP-46332 Prod/Bus ACR в МОМ не отображается валюта в маске." />
     <mask>*rule*</mask>
