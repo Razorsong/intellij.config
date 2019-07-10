@@ -5,6 +5,7 @@
       <mapping ext="checkreferenceresolvedcabinetprocessor" type="CLASS" />
       <mapping pattern="vip43391_exportListOfAccessRestrictedProfiles" type="Groovy" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="XML" />
     </extensionMap>
   </component>
 </application>
