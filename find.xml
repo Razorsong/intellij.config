@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*groovy" />
+    <option name="FILE_MASK" value="*java" />
     <mask>*rule*</mask>
     <mask>*rail.xml</mask>
     <mask>plugin.xml</mask>
@@ -31,8 +31,8 @@
     <mask>ibus-*hotel*</mask>
     <mask>model*</mask>
     <mask>*xml</mask>
-    <mask>*java</mask>
     <mask>model*xml</mask>
     <mask>*groovy</mask>
+    <mask>*java</mask>
   </component>
 </application>
