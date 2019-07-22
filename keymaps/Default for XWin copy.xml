@@ -14,6 +14,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
+  <action id="ExternalSystem_1c6961fdtestcontrol1c6961fdfoo_testCoverageReport">
+    <mouse-shortcut keystroke="alt button3" />
+  </action>
   <action id="IncomingChanges.Refresh">
     <keyboard-shortcut first-keystroke="alt f5" />
   </action>
