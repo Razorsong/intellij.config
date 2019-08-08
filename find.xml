@@ -22,7 +22,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>ui*</mask>
     <mask>ibus*.xml</mask>
     <mask>ibus-vip-no*.xml</mask>
@@ -37,5 +36,6 @@
     <mask>*groovy</mask>
     <mask>*java</mask>
     <mask>model*xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
