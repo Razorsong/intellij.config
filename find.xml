@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*rule*</mask>
     <mask>*rail.xml</mask>
     <mask>plugin.xml</mask>
@@ -19,7 +20,6 @@
     <mask>*Builder.java</mask>
     <mask>ibus-vip-notifications*</mask>
     <mask>*_DE*</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>ui*</mask>
@@ -37,5 +37,6 @@
     <mask>*java</mask>
     <mask>model*xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
