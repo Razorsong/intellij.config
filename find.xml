@@ -3,9 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml,*.java" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*rail.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*model*.xml</mask>
@@ -33,8 +35,8 @@
     <mask>*groovy</mask>
     <mask>*java</mask>
     <mask>model*xml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.xml,*.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
