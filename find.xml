@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*rule*</mask>
+    <option name="FILE_MASK" value="*.xml,*.java" />
     <mask>*rail.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*model*.xml</mask>
@@ -35,5 +35,6 @@
     <mask>model*xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.xml,*.java</mask>
   </component>
 </application>
