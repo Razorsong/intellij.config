@@ -7,8 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*rail.xml</mask>
+    <option name="FILE_MASK" value="*.java,*.xml" />
     <mask>plugin.xml</mask>
     <mask>*model*.xml</mask>
     <mask>ui*.xml</mask>
@@ -38,5 +37,6 @@
     <mask>*.xml</mask>
     <mask>*.xml,*.java</mask>
     <mask>*.java</mask>
+    <mask>*.java,*.xml</mask>
   </component>
 </application>
